@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: minimal
 title: TestBed
 description: A description has to go here, but for now it is just this msg.
 show_downloads: true
