@@ -2,3 +2,12 @@ theme: jekyll-theme-minimal
 title: TestBed
 description: A description has to go here, but for now it is just this msg.
 show_downloads: true
+
+author:
+  name:  Inaki Lopez
+  email: ignore@gmail.com
+  social:
+    twitter: ilodev
+    github:  ilodev
+  about: |
+    Hi, just a small bio about...
