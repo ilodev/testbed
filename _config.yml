@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: TestBed
 description: A description has to go here, but for now it is just this msg.
+show_downloads: true
